@@ -1,0 +1,2 @@
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\SastanaArt.pdb
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\SastanaArt.exe

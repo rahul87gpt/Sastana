@@ -1,0 +1,12 @@
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\Assets\home.png
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\SastanaArt.exe
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\SastanaArt.dll
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\SastanaArt.deps.json
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\SastanaArt.runtimeconfig.json
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\SastanaArt.pdb
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\ControlzEx.dll
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\MahApps.Metro.dll
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\Microsoft.Xaml.Behaviors.dll
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\System.Text.Json.dll
+E:\avi\SastanaArt\SastanaArt\bin\Release\netcoreapp3.1\publish\de\MahApps.Metro.resources.dll
